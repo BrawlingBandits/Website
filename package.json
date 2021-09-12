@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "name": "website",
+  "description": "Mein Kampfe , I mean my website lol",
+  "version": "2.0",
+  "author": "Whirl",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@lekoarts/gatsby-theme-cara": "^2.0.0",
+    "gatsby": "^3.6.1",
+    "gatsby-plugin-gatsby-cloud": "^2.6.1",
+    "gatsby-plugin-google-analytics": "^3.6.0",
+    "gatsby-plugin-manifest": "^3.6.0",
+    "gatsby-plugin-netlify": "^3.6.1",
+    "gatsby-plugin-offline": "^4.6.0",
+    "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.22",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
