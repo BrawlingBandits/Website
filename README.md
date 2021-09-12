@@ -32,7 +32,7 @@ npm run build
 
 ## 👨‍💻 Tech Stack
 
-Gatsby
+Gatsby<br>
 Gatsby Theme Cara
 
 ## ❤ Show your support
